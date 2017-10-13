@@ -1,0 +1,1 @@
+<?php SESSION_START(); unset($_SESSION['username']); header('Location:book_a_flight.php'); ?>
